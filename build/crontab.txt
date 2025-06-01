@@ -1,0 +1,1 @@
+*/10 * * * * /app/run_hdsentinel.sh
